@@ -1,0 +1,9 @@
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\bin\Debug\3_Nina-5.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\bin\Debug\3_Nina-5.exe
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\bin\Debug\3_Nina-5.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\obj\Debug\3_Nina-5.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\obj\Debug\3_Nina-5.exe
+c:\users\alumno\documents\visual studio 2015\Projects\3_Nina-5\3_Nina-5\obj\Debug\3_Nina-5.pdb
+D:\Etapa 3\3_Nina-5\3_Nina-5\bin\Debug\3_Nina-5.exe.config
+D:\Etapa 3\3_Nina-5\3_Nina-5\obj\Debug\3_Nina-5.exe
+D:\Etapa 3\3_Nina-5\3_Nina-5\obj\Debug\3_Nina-5.pdb

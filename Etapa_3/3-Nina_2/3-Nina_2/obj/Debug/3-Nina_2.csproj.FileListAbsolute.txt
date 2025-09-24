@@ -1,0 +1,8 @@
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\bin\Debug\3-Nina_2.exe.config
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\bin\Debug\3-Nina_2.exe
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\bin\Debug\3-Nina_2.pdb
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\obj\Debug\3-Nina_2.csproj.AssemblyReference.cache
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\obj\Debug\3-Nina_2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\obj\Debug\3-Nina_2.exe
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\obj\Debug\3-Nina_2.pdb
+C:\Users\Alumno_Invitado\Desktop\gitHub\3-Nina_2\3-Nina_2\obj\Debug\3-Nina_2.exe.config
